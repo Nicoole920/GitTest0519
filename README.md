@@ -19,4 +19,4 @@ select * from text;
 ```
 Name|Age|Height
 ---:|---|---
-Nicole
+Nicole|32|165
